@@ -4,5 +4,6 @@
 3. The goal is to provide actionable insights to support decision-making, helping the organization align its HR strategies with employee needs and business goals.
 4. Actively engaged in developing data models, performing data transformations, and using DAX for accurate analysis and reporting.
 
+
 PBIX: https://drive.google.com/file/d/1XPjzVhnUDxkPN1Os6jtzwJDxSjxNjYoE/view?usp=sharing
 PDF: https://drive.google.com/file/d/1SKZ0Hgg1SflNxJzJdlTv1kSsTIyz8sCL/view?usp=sharing
